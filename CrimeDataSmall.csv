@@ -1,0 +1,4 @@
+Report_No,Reported_Date,Reported_Time,From_Date,From_Time,To_Date,To_Time,Offense,IBRS,Description,Beat,Address,City,Zip Code,Rep_Dist,Area,DVFlag,Involvement,Race,Sex,Age,Firearm Used Flag,Location
+KC19019972,03/19/2019,08:48,03/19/2019,08:48,03/19/2019,09:33,Vehicular – Non-Injury,,,636,NE 40TH ST and N KIMBALL DR,KANSAS CITY,64161,PC1239,SCP,N,ARR CHA VDR,W,F,41,false,
+KC19022130,03/27/2019,08:06,03/27/2019,07:45,,,Stealing – Shoplift,23C,Shoplifting,345,11600  E US 40 HWY,KANSAS CITY,64133,PJ3601,EPD,N,VIC,,,,false,
+KC19022210,03/27/2019,10:50,03/27/2019,11:45,,,Embezzlement,270,Embezzlement,134,"4600,  S WORNALL RD",KANSAS CITY,64112,,CPD,N,VIC,,,,false,"4600  S WORNALL RD
